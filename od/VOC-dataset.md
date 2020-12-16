@@ -2,7 +2,7 @@
 <hr></hr>
 
 ## VOC数据集解压后的结构
- <img src="https://github.com/vie-serendipity/CV/blob/master/od/images/struct.PNG" width = "200" height = "300" alt="struct" align=center />
+ <img src="https://github.com/vie-serendipity/CV/blob/master/od/images/struct.PNG" width = "300" height = "450" alt="struct" align=center />
 
 1. JPEGImages
 
